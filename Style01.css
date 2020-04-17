@@ -1,0 +1,55 @@
+h1
+{
+	color : green;
+	text-align : center;
+}
+
+div
+{
+	background-color : yellow;
+	color : brown;
+	width : 200px;
+	height : 400px;
+	text-align : left;
+	margin:10px;
+	padding : 100px;
+	font-family:Times New Roman;
+	font-size:20px;
+	font-weight:medium;
+	border: 10px dotted black;
+}
+
+table
+{
+	border : 5px solid black;
+	border-collapse : collapse;
+}
+
+th{
+	border : 2px solid black;
+	background-color:blue;
+	padding : 10px;
+	}
+
+td
+{
+	border : 1px solid black;
+	background-color:yellow;
+	padding : 10px;
+}
+
+#division01{
+	font-size : 10px;
+}
+
+#division02{
+	font-size : 20px;
+}
+
+#division03{
+	font-size : 30px;
+}
+
+.name{
+	font-weight : bold;
+}
